@@ -1,3 +1,0 @@
-print('Rhenf')
-
-print('IFGIFGFJ')
